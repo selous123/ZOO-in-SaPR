@@ -1,5 +1,5 @@
 # ZOO-in-SaPR
-ZerOing Operator in Sign-aware Perturbations Regression 
+ZerOing Operator in Sign-aware Perturbations Regression
 
 ## Introduction
 This paper presents the first study on Sign-aware Perturbations Regression (SaPR), where the ob- served response variables contain the sign-aware (negative or positive) perturbations. In order to predict the non-perturbation response variables, we propose a novel parameter estimator ZOO (i.e.,ZerOing Operator), which aims at taking full advantage of the aware perturbations information to correct the mistake values in the estimation process with computationally efficiency. In this paper, the two aspects of theoretical analysis are proposed to deeply understand our method. Firstly, we establish the perturbation parameter error upper bound and prove consistency guarantee in the linear regression scenario. Secondly, we introduce the generalization error bound for the proposed ZOO, which indicates that the error bound is related to the value and the number of negative and positive perturbations. The effectiveness of the proposed approach is well validated by the experimental results on both synthetic and real datasets.Detailed description of the method can be found in our paper.
@@ -30,7 +30,7 @@ python main.py
 ```
 
 ## Result
-
+$x = y$
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
