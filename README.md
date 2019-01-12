@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 # ZOO-in-SaPR
 ZerOing Operator in Sign-aware Perturbations Regression
 
@@ -30,7 +31,7 @@ python main.py
 ```
 
 ## Result
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 formula1: $$n==x$$
 
 formula2: $$n!=x$$
