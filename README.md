@@ -1,4 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 # ZOO-in-SaPR
 ZerOing Operator in Sign-aware Perturbations Regression
 
@@ -32,19 +31,6 @@ python main.py
 
 ## Result
 
-formula1: $$n==x$$
-
-formula2: $$n!=x$$
-
-formula3: (m==y)
-
-formula4: [m!=y]
-
-formula5: \(k==z\)
-
-formula6: \[k!=z\]
-
-$$x = y$$
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
